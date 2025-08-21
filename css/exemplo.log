@@ -1,0 +1,24 @@
+commit a33ec829a06437f104bc87806e054c@b91f58f3b (HEAD -> main, origin/mai
+n)
+Author: Camila Gomes <camila.gmssantos@email. com>
+Date:
+Wed Aug 20 21:36:13 2025
+-0300
+alteração para meu nome completo em index.html.
+commit cfcd8e84b6d198f5e24efc8d306bla584d7f5338 (alteracao-02)
+Author: Camila Gomes <camila.gms.santos@email.com>
+Date:
+Wed Aug 20 21:34:00 2025 - 0300
+criação de função com laço de repetição no arquivo script.js.
+commit 74492201C376429227cc3e837e8346d05a896b4f (origin/alteracao-01, alt
+eracão-01)
+Author: Camila Gomes <camila.gms.santos@email.com>
+Date:
+Wed Aug 20 21:21:09 2025 -0300
+alteração da cor "background-color" da classe container.
+commit c9031284631973e664dd9af5287c1d94befdaaec
+Author: Camila Gomes <camila.gms.santos@email.com>
+Date:
+Wed Aug 20 21:18:20 2025 - 0300
+Criação dos arquivos e pastas.
+° camila-gomes@ubuntu: ~/GITHUB/Curso_js/avaliacao-github$
