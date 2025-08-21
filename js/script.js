@@ -44,3 +44,15 @@ addTextBtn.addEventListener('click', function() {
     // Adiciona o novo parágrafo como um "filho" do contêiner de texto
     textContainer.appendChild(newParagraph);
 });
+
+//Exibe pessoas cadastradas no sistema a partir de um array:
+let pessoas = [10]; //Implementação posterior para adicionar pessoas a esse array.
+function exibePessoas(pessoas) {
+    let todasPessoasCadastradas = ""
+    for (let i = 0; i < pessoas.length; i++) {
+        if (pessoas[i] != null) {
+            todasPessoasCadastradas += "\n*" + pessoas[i];
+        }
+    }
+    return todasPessoasCadastradas;
+}
